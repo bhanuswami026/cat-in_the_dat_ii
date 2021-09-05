@@ -13,5 +13,8 @@ The data contains binary features (bin_*), nominal features (nom_*), ordinal fea
 
 Since the purpose of this competition is to explore various encoding strategies. Unlike the first Categorical Feature Encoding Challenge, the data for this challenge has missing values and feature interactions.
 
+#### DOWNLOAD DATA FROM:
+SOURCE: https://www.kaggle.com/c/cat-in-the-dat-ii/data
+
 ### EVALUATION:
 Evaluated on area under the ROC curve between the predicted probability and the observed target.
